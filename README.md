@@ -47,7 +47,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
 
 ```
-module exp7 (
+module xyz7 (
     input  wire clk, rst, S, R,
     output reg  Q
 );
